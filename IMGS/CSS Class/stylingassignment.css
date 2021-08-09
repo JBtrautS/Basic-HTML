@@ -1,0 +1,21 @@
+h1{
+    background-color: black ;
+    color: aquamarine;
+    padding: 10px;
+}
+h1 strong {
+    color: white;
+}
+h2{
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+h3 {
+    text-align: right;
+    color: purple;
+    text-decoration: underline;
+    background-color:aqua;
+    padding: 10px;
+}

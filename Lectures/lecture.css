@@ -1,0 +1,24 @@
+p {
+    color: red;
+    text-align: center;
+    height: 200px;
+    width: 100%;
+    font-size: 400%;
+    background: blue url("linkedin.png") no-repeat fixed center;
+
+
+}
+li {
+    color: purple;
+    display: inline-block;
+}
+
+#green {
+    color: green;
+}
+#house_color {
+
+}
+.red  {
+    color: red;
+}

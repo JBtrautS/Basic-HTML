@@ -1,0 +1,30 @@
+h1{
+    background-color: rebeccapurple !important;
+    color: white;
+    text-align: left;
+    text-decoration: line-through;
+    font-style: italic;
+    font-weight: bold;
+}
+.green {
+    background-color: mediumaquamarine;
+}
+#red   {
+    background-color: mediumvioletred;
+}
+body{
+    background-color: blanchedalmond;
+}
+
+input {
+    padding: 10px;
+    border-color: rebeccapurple;
+}
+input[type="text"] {
+    border: none;
+    border-bottom: 4px solid rebeccapurple;
+}
+input[type="submit"] {
+    color: white;
+    background-color: rebeccapurple;
+}
